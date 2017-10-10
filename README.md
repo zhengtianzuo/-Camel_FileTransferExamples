@@ -1,4 +1,7 @@
-﻿# Camel_FileTransferExamples
+﻿
+![](https://github.com/zhengtianzuo/Camel_FileTransferExamples/blob/master/Camel_FileTransferExamples.jpg?raw=true)
+
+# Camel_FileTransferExamples
  Camel_FileTransfer相关的技术分享
 
 ![](https://img.shields.io/badge/%E7%BC%96%E8%AF%91-%E6%88%90%E5%8A%9F-brightgreen.svg)
