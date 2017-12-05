@@ -42,3 +42,16 @@
 计划加入的工程:
 1. CamelFileTransferTest: 文件传输开发组件测试程序
 2. SilkFileTansfer: 局域网文件传输工具
+
+
+
+***
+#### **捐赠**
+######捐赠名单:
+
+
+
+<img src="https://github.com/zhengtianzuo/zhengtianzuo.github.io/blob/master/weixin.jpg?raw=true" width="50%" height="50%" /><img src="https://github.com/zhengtianzuo/zhengtianzuo.github.io/blob/master/zhifubao.jpg?raw=true" width="50%" height="50%" />
+
+###### 觉得非常的内容还不错, 就请作者喝杯咖啡吧~~
+***
