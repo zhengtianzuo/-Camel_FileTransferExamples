@@ -18,6 +18,8 @@
 ##### 组件介绍:
 ***
 ##### Camel_FileTransfer: 高性能可靠UDP数据传输P2P通讯框架
+![](https://github.com/zhengtianzuo/Camel_FileTransferExamples/blob/master/CamelFileTransferDll/camel.png?raw=true) 中文名: 双峰驼
+
 自主研发的点对点可靠网络传输中间件, **非开源** 属于CamelSoft系列基础开发组件.
 
 作用： UDP和TCP协议下的可靠数据通讯组件，可用于建立P2P环境，文件传输，数据通讯。基于UDP/TCP协议的内网穿透解决方案, 轻松实现音视频会议中心, 直播, 远程桌面/文档演示等功能.
