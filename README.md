@@ -22,6 +22,10 @@ Camel_FileTransfer相关的技术分享
 #### 组件介绍:
 
 ##### Camel_FileTransfer: 高性能可靠UDP数据传输P2P通讯框架
+
+![](https://github.com/zhengtianzuo/Camel_FileTransferExamples/blob/master/Camel_FileTransferPage.png?raw=true)
+
+
 ***
 ![](https://github.com/zhengtianzuo/Camel_FileTransferExamples/blob/master/CamelFileTransferDll/camel.png?raw=true) 中文名: 双峰驼
 
