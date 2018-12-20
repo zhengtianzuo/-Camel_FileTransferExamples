@@ -23,7 +23,7 @@ Camel_FileTransfer相关的技术分享
 
 ##### Camel_FileTransfer: 高性能可靠UDP数据传输P2P通讯框架
 
-![](https://github.com/zhengtianzuo/Camel_FileTransferExamples/blob/master/Camel_FileTransferPage.png?raw=true)
+![](https://github.com/zhengtianzuo/Camel_FileTransferExamples/blob/master/Camel_FileTransferPage.jpg?raw=true)
 
 
 ***
