@@ -1,9 +1,14 @@
 ﻿
 ![](https://github.com/zhengtianzuo/Camel_FileTransferExamples/blob/master/Camel_FileTransferExamples.jpg?raw=true)
 
-# Camel_FileTransferExamples
 ***
-Camel_FileTransfer相关的技术分享
+# Camel_FileTransferExamples
+![](https://github.com/zhengtianzuo/Camel_FileTransferExamples/blob/master/Camel_FileTransferPage.jpg?raw=true)
+
+***
+![](https://github.com/zhengtianzuo/Camel_FileTransferExamples/blob/master/CamelFileTransferDll/camel.png?raw=true) 中文名: 双峰驼
+
+自主研发的高性能可靠UDP数据传输P2P通讯框架, **非开源** 属于CamelSoft系列基础开发组件. UDP和TCP协议下的可靠数据通讯组件，可用于建立P2P环境，文件传输，数据通讯。基于UDP/TCP协议的内网穿透解决方案, 轻松实现音视频会议中心, 直播, 远程桌面/文档演示等功能.
 
 ![](https://img.shields.io/badge/%E7%89%88%E6%9D%83%E8%AE%B8%E5%8F%AF-MIT-orange.svg)
 ![](https://img.shields.io/badge/Qt-5.10-blue.svg)
@@ -12,24 +17,6 @@ Camel_FileTransfer相关的技术分享
 ![](https://img.shields.io/badge/Camel_FileTransfer-1.0.0.0-blue.svg)
 ![](https://img.shields.io/badge/%E7%89%88%E6%9C%AC-1.0.0.0-blue.svg)
 ![](https://img.shields.io/badge/%E7%BC%96%E8%AF%91-%E6%88%90%E5%8A%9F-brightgreen.svg)
-
-#### 项目背景:
-***
-这里主要介绍Camel_FileTransfer CamelSoft系列基础开发组件的demo和实际的一些应用.
-
-
-
-#### 组件介绍:
-
-##### Camel_FileTransfer: 高性能可靠UDP数据传输P2P通讯框架
-
-![](https://github.com/zhengtianzuo/Camel_FileTransferExamples/blob/master/Camel_FileTransferPage.jpg?raw=true)
-
-
-***
-![](https://github.com/zhengtianzuo/Camel_FileTransferExamples/blob/master/CamelFileTransferDll/camel.png?raw=true) 中文名: 双峰驼
-
-自主研发的点对点可靠网络传输中间件, **非开源** 属于CamelSoft系列基础开发组件. UDP和TCP协议下的可靠数据通讯组件，可用于建立P2P环境，文件传输，数据通讯。基于UDP/TCP协议的内网穿透解决方案, 轻松实现音视频会议中心, 直播, 远程桌面/文档演示等功能.
 
 特点：
 
@@ -41,18 +28,6 @@ Camel_FileTransfer相关的技术分享
 * 通讯数据包发送分包，接收组包，保证数据顺序完整。
 
 ![](https://github.com/zhengtianzuo/zhengtianzuo.github.io/blob/master/sysall.png?raw=true)
-
-
-#### 应用实例:
-***
-
-***
-
-***
-#### 计划加入的工程:
-1. CamelFileTransferTest: 文件传输开发组件测试程序
-2. SilkFileTansfer: 局域网文件传输工具
-***
 
 
 #### 联系方式:
