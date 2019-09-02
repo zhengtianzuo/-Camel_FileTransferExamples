@@ -57,7 +57,7 @@ ApplicationWindow {
                 width: 150
                 anchors.verticalCenter: parent.verticalCenter
                 verticalAlignment: Text.AlignVCenter
-                text: "192.168.2.128"
+                text: "192.168.0.1"
                 font.pixelSize: 14
                 color: "#eeff0000"
                 selectByMouse: true
